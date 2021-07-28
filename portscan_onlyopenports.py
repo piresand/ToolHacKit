@@ -1,4 +1,6 @@
 # Scan de portas com timeout
+💀💀💀💀💀💀💀💀💀💀💀💀💀
+
 
 import socket
 
