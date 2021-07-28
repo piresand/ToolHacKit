@@ -1,3 +1,5 @@
+# Scan de portas com timeout
+
 import socket
 
 portas = [21, 23, 80, 443, 8080, 445]
