@@ -1,2 +1,2 @@
 # ToolHacKit
-tools for hacking made w python programing
+tools for hacking made with python programing
