@@ -10,3 +10,8 @@ for porta in portas:
     codigo = cliente.connect_ex(('bancocn.com', porta))
     if codigo == 0: 
         print porta, "OPEN"
+
+        
+        
+        
+        
